@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "07c190b001681fba",
+        "id": "38886a912b5cf351",
         "type": "tabs",
         "children": [
           {
-            "id": "49a7447a82225f45",
+            "id": "b963c043736db4bf",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "未命名思维导图 3.md"
-              },
-              "icon": "blocks",
-              "title": "未命名思维导图 3"
-            }
-          },
-          {
-            "id": "65c2daf68b7c3dc5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.5"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,12 +215,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "65c2daf68b7c3dc5",
+  "active": "b963c043736db4bf",
   "lastOpenFiles": [
-    "未命名思维导图 2.md",
-    "未命名思维导图 3.md",
-    "未命名思维导图 1.md",
     "未命名思维导图.md",
+    "未命名思维导图 3.md",
+    "未命名思维导图 2.md",
+    "未命名思维导图 4.md",
+    "未命名思维导图 1.md",
     "未命名思维导图 1-rich.md",
     "未命名.md",
     "2026-01-20-mindmap.md",
