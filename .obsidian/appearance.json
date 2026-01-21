@@ -1,5 +1,8 @@
 {
   "theme": "system",
   "accentColor": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "hide_git_menu"
+  ]
 }

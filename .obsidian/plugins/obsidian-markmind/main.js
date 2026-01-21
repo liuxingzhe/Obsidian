@@ -105911,19 +105911,19 @@ class VM extends d.Plugin {
                 return t.addItem((t => {
                     t.setTitle(`${b("New mindmap board")}`).setIcon("document").onClick(( () => this.newMindMap(e)))
                 }
-                )),
-                // t.addItem((t => {
-                //     t.setTitle(`${b("New basic mindmap board")}`).setIcon("document").onClick(( () => this.newMindMap(e, "basic")))
-                // }
-                // )),
-                // t.addItem((t => {
-                //     t.setTitle(`${b("New markdown mindmap board")}`).setIcon("document").onClick(( () => this.newMindMap(e, "markdown")))
-                // }
-                // )),
-                // void t.addItem((t => {
-                //     t.setTitle(`${b("New rich mindmap board")}`).setIcon("document").onClick(( () => this.newMindMap(e, "rich")))
-                // }
                 ));
+               /* t.addItem((t => {
+                    t.setTitle(`${b("New basic mindmap board")}`).setIcon("document").onClick(( () => this.newMindMap(e, "basic")))
+                }
+                )),
+                t.addItem((t => {
+                    t.setTitle(`${b("New markdown mindmap board")}`).setIcon("document").onClick(( () => this.newMindMap(e, "markdown")))
+                }
+                )),
+                void t.addItem((t => {
+                    t.setTitle(`${b("New rich mindmap board")}`).setIcon("document").onClick(( () => this.newMindMap(e, "rich")))
+                }
+                ));*/
             if (n && "markdown" == this.mindmapFileModes[n.id || e.path]) {
                 const i = this.app.metadataCache.getFileCache(e);
                 if ((null == i ? void 0 : i.frontmatter) && i.frontmatter["annotate-target"]) {
