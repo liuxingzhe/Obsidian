@@ -11,14 +11,12 @@
             "id": "49a7447a82225f45",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "mindmapview",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "未命名思维导图 3.md"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "blocks",
+              "title": "未命名思维导图 3"
             }
           }
         ]
@@ -72,6 +70,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          },
+          {
+            "id": "1f02ba92c8eaaf23",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -192,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 560.5
+    "width": 560.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,6 +220,14 @@
   },
   "active": "49a7447a82225f45",
   "lastOpenFiles": [
+    "未命名思维导图 2.md",
+    "未命名思维导图 3.md",
+    "未命名思维导图 1.md",
+    "未命名思维导图.md",
+    "未命名思维导图 1-rich.md",
+    "未命名.md",
+    "2026-01-20-mindmap.md",
+    "2026-01-20.md",
     "机构教程/欢迎.md",
     "欢迎 1.md",
     "b74835b7ba68c506978e0c85c30385d2_MD5.png",
@@ -227,8 +244,6 @@
     "Recording 20260120151842.m4a",
     "Recording 20260120151841.m4a",
     "Recording 20260120151837.m4a",
-    "未命名.md",
-    "2026-01-20.md",
     "机构教程",
     "未命名 7.base",
     "未命名 2.canvas",
