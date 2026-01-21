@@ -11,10 +11,24 @@
             "id": "b963c043736db4bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "机构教程/day17-B站播放量01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "day17-B站播放量01"
             }
           }
         ]
@@ -162,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.base",
-                "followCursor": true,
+                "file": "机构教程/day17-B站播放量01.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "day17-B站播放量01 的大纲"
             }
           },
           {
@@ -194,12 +208,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 560.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,6 +230,27 @@
   },
   "active": "e1c4b7d4dd9326c7",
   "lastOpenFiles": [
+    "机构教程/day18-B站02.md",
+    "日历/2026-01-21.md",
+    "机构教程/day17-B站播放量01.md",
+    "日历",
+    "2026-01-20.md",
+    "2026-01-20-mindmap.md",
+    "欢迎 1.md",
+    "机构教程/day18-课堂笔记.md",
+    "机构教程/imgs/day18-课堂笔记.assets/image-20240109222235042.png",
+    "机构教程/imgs/day18-课堂笔记.assets/image-20240109215944506.png",
+    "机构教程/imgs/day18-课堂笔记.assets/image-20240109203341336.png",
+    "机构教程/imgs/day18-课堂笔记.assets/image-20240109202921175.png",
+    "机构教程/imgs/day18-课堂笔记.assets/image-20240109201001550.png",
+    "机构教程/imgs/day18-课堂笔记.assets/image-20240109200718837.png",
+    "机构教程/imgs/day18-课堂笔记.assets/image-20231020200509863.png",
+    "机构教程/imgs/day18-课堂笔记.assets",
+    "机构教程/imgs/day18-B站02.assets/image-20231020200509863.png",
+    "机构教程/imgs/day18-B站02.assets/image-20230808194141048.png",
+    "机构教程/imgs/day18-B站02.assets/image-20230808193748158.png",
+    "机构教程/imgs/day18-B站02.assets",
+    "机构教程/imgs",
     "未命名思维导图.md",
     "未命名思维导图 3.md",
     "未命名思维导图 2.md",
@@ -224,19 +258,7 @@
     "未命名思维导图 1.md",
     "未命名思维导图 1-rich.md",
     "未命名.md",
-    "2026-01-20-mindmap.md",
-    "2026-01-20.md",
     "机构教程/欢迎.md",
-    "欢迎 1.md",
-    "b74835b7ba68c506978e0c85c30385d2_MD5.png",
-    "54b431d5636c83c5d6a8158a9221499f_MD5.png",
-    "d9a0db85c84028da9534d38f49e87f2c_MD5.png",
-    "7f3f70eada7e605f59e56ba68410ce88_MD5.png",
-    "cfd2ba0691320d4600b73e4249f6a189_MD5.png",
-    "80e8ec53c303a5e3664d2a8593415675_MD5.png",
-    "4fc370e7921e5157635540b713d2f5d6_MD5.png",
-    "f877588c0789e1721a46b9d22e1b54bc_MD5.png",
-    "c8735c98eb5c451ace6204c1ae0245e1_MD5.png",
     "未命名.base",
     "未命名.canvas",
     "Recording 20260120151842.m4a",
@@ -245,10 +267,6 @@
     "机构教程",
     "未命名 7.base",
     "未命名 2.canvas",
-    "未命名 6.base",
-    "未命名 1.canvas",
-    "未命名 1.base",
-    "未命名 5.base",
-    "未命名 4.base"
+    "未命名 1.canvas"
   ]
 }
